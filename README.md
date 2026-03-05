@@ -65,7 +65,3 @@ python modello_matematico.py
 * **Dimensionamento Dinamico:** Il budget energetico e le scadenze non sono costanti, ma scalano proporzionalmente alla dimensione del grafo ($T_{cycle}$ stimato).
 * **Vincoli Spazio-Temporali:** Previene spostamenti fisicamente impossibili (anti-teletrasporto).
 * **Sensori Multi-Livello:** Il drone può scegliere tra 3 livelli di potenza del sensore, bilanciando raggio d'azione e consumo istantaneo.
-
-```
-
-```
