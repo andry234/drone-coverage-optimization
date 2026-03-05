@@ -68,11 +68,4 @@ python modello_matematico.py
 
 ```
 
-***
-
-### Prossimo step!
-Ora che hai tutto il materiale teorico pronto e sai come caricare il codice, sei in una posizione fantastica. 
-
-Vuoi che passiamo a preparare i **3 Esempi Difficili** e le relative argomentazioni, così completiamo tutto il blocco dei test per la tua relazione?
-
 ```
